@@ -1,3 +1,4 @@
 <cfscript>
-	JSONfile = '/animals.json'
+	// invalid JSON had to add comma
+	JSONfile = '/animals.json';
 </cfscript>

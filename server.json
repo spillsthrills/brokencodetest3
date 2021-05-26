@@ -1,0 +1,14 @@
+{
+    "app":{
+        "cfengine":"adobe@11"
+    },
+    "heap":"512",
+    "JVM":{
+        "javaVersion":"openjdk8"
+    },
+    "web":{
+        "http":{
+            "port":"8080"
+        }
+    }
+}
